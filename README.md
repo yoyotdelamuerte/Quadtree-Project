@@ -44,3 +44,5 @@ Example:
 - Python 3.12 
 - Tkinter library (usually included with Python installations)
 
+## :white_check_mark: License
+Feel free to explore, modify, and use the code in your projects! If you encounter any issues or have suggestions, please create an issue or pull request.
